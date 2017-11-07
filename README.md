@@ -4,8 +4,10 @@
 
 ## Infomation
 
-[fendo181git@gmail.com]
+ご連絡
+
+fendo181git@gmail.com
 
 ## LICENSE
 
-![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
+![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)(LICENSE)
